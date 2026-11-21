@@ -1,0 +1,1 @@
+An interactive 4-page Hospital & Healthcare Analytics Dashboard built using MySQL and Power BI to analyze hospital admissions, doctor performance, patient demographics, insurance distribution, revenue, and billing trends.
